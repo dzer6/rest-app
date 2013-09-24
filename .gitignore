@@ -5,6 +5,6 @@
 *.war
 *.ear
 
-/.idea
-.iml
-/target.idea/
+.idea/*
+*.iml
+target/
