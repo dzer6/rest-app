@@ -1,0 +1,17 @@
+firstFilePath: src/test/resources/f1
+
+secondFilePath: src/test/resources/f2
+
+# Logging settings.
+logging:
+
+  # The default level of all loggers. Can be OFF, ERROR, WARN, INFO, DEBUG, TRACE, or ALL.
+  level: INFO
+
+  # Logger-specific levels.
+  loggers:
+
+    com.dzer6: DEBUG
+
+#  outputs:
+#    - type: console
